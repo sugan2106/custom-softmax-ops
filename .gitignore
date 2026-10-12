@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.obj
+*.exe
+input.bin
+custom_output.bin
+custom_latency.txt
+comparison_results.csv
