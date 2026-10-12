@@ -1,8 +1,8 @@
-**Custom CUDA Softmax vs PyTorch's Built-in Softmax Ops
-**
+**Custom CUDA Softmax vs PyTorch's Built-in Softmax Ops**
+
 A CUDA C++ project focused on implementing a fused, numerically stable Softmax kernel and evaluating its performance against PyTorch's built-in Softmax operator.
 
-Project Description
+**Project Description**
 
 Designed and implemented a fused, numerically stable Softmax kernel in CUDA C++.
 
